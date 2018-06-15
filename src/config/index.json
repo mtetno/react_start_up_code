@@ -1,0 +1,10 @@
+{
+  "dev": true,
+  "api": {
+    "oauth": "https://xyz.com",
+    "usermanagement": "http://xyz.com",
+    "questionnaire": "http://xyz.com",
+    "dashboard": "http://xyz.com",
+    "mobile": "http://xyz.com"
+  }
+}
